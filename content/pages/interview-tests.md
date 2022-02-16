@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Interview Tests
 uid: 325f907e-3fb1-6f23-ba1f-7551a4e101c1
 ---
@@ -13,7 +15,7 @@ Interview Test Grading Rubrics
 {{< thopen >}}
 Criteria
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="5" >}}
 Ratings
 {{< thclose >}}
 {{< thopen >}}
