@@ -1,16 +1,17 @@
 ---
 content_type: page
+description: In this section, Wakana Maekawa describes various aspects of how she
+  teaches 21G.504 Japanese IV.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 651a8dea-013c-4de9-be6d-0fe53ac965e7
 ---
+## Instructor Insights
 
-Instructor Insights
--------------------
-
-Below, Wakana Maekawa describes various aspects of how she teaches _21G.504 Japanese IV_.
+Below, Wakana Maekawa describes various aspects of how she teaches *21G.504 Japanese IV*.
 
 **OCW:** What are the biggest challenges students tend to face in this fourth course in the sequence of Japanese courses at MIT? How do you address these challenges? What tips do you have for other educators teaching this level of Japanese?
 
@@ -20,7 +21,7 @@ Below, Wakana Maekawa describes various aspects of how she teaches _21G.504 Japa
 
 **Wakana Maekawa:** Since many students in Japanese IV are interested in doing an internship in Japan through the [MISTI-Japan](https://misti.mit.edu/mit-japan) program after completing the course, it’s important for them to understand the socially appropriate language and be able to use it. For many students it seems difficult to understand which forms to use in which circumstances at first, but we teach one form at a time by explaining the concept with many example sentences and provide them with ample opportunities to deepen their understanding and fully acquire the skills through exercises and role plays.
 
-**{{< anchor "rubric" >}}{{< /anchor >}}OCW:** You use a detailed [rubric]({{< baseurl >}}/pages/interview-tests) in calculating the grades for the two interview tests. What are the advantages and disadvantages of this approach? Do you share this rubric with your students? If so, how is it useful to them?
+{{< anchor "rubric" >}}{{< /anchor >}}**OCW:** You use a detailed {{% resource_link 325f907e-3fb1-6f23-ba1f-7551a4e101c1 "rubric" %}} in calculating the grades for the two interview tests. What are the advantages and disadvantages of this approach? Do you share this rubric with your students? If so, how is it useful to them?
 
 {{< quote "Each student has strengths and weaknesses, but grading their performance using just a letter grade doesn’t inform them what their strengths and weaknesses are." "— Wakana Maekawa" >}}
 
@@ -28,8 +29,7 @@ Below, Wakana Maekawa describes various aspects of how she teaches _21G.504 Japa
 
 Each student has strengths and weaknesses, but grading their performance using just a letter grade doesn’t inform them what their strengths and weaknesses are. For example, an A- could mean that they’re fluent but the variety of grammar and vocabulary is limited. Or it could also mean that their accuracy is good but they need to work more on listening comprehension. A rubric can provide them with clearer and more detailed feedback on their performance and with an opportunity for them to reflect on their Japanese abilities. Understanding their own strengths and weaknesses will also enable them to take more initiative in their Japanese study.
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -40,35 +40,34 @@ The students' grades were based on the following assessment elements:
 - 25% Tests: two interview tests 15%; one-hour exam 10%
 - 10% Homework
 - 15% Presentation
-  
 
-### [Rubric]({{< baseurl >}}/pages/interview-tests)
+### {{% resource_link 325f907e-3fb1-6f23-ba1f-7551a4e101c1 "Rubric" %}}
 
 ### [Instructor Insights on Assessment](#rubric)
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-[_21G.501 Japanese I_](/courses/21g-501-japanese-i-fall-2019/) or equivalent
+[*21G.501 Japanese I*](/courses/21g-501-japanese-i-fall-2019) or equivalent
 
 ### Requirements Satisfied
 
-*   GIR ![GIR](/images/educator/icon-question-gir.png)
-*   HASS ![HASS](/images/educator/icon-question-hass.png)
-*   HASS-H ![HASS-H](/images/educator/icon-question-hass-h.png)
-*   21G.504 is required for a [Bachelor’s Degree in Global Languages with a concentration in Japanese Studies (PDF)](https://mitgsl.mit.edu/sites/default/files/JapaneseSmSpring21_0.pdf).
-*   21G.504 counts toward the two years of Japanese studies required for participation in the [MISTI-Japan internship program](https://misti.mit.edu/mit-japan).
+- GIR
+- HASS
+- HASS-H
+- 21G.504 is required for a [Bachelor’s Degree in Global Languages with a concentration in Japanese Studies](http://catalog.mit.edu/schools/humanities-arts-social-sciences/global-studies-languages/#global-languages-literatures-bs-course-21g).
+- 21G.504 counts toward the two years of Japanese studies required for participation in the [MISTI-Japan internship program](https://misti.mit.edu/mit-japan).
 
 ### Offered
 
 Every spring semester
 
-Student Information
--------------------
+## Student Information
 
-![52 students took this course when it was taught in spring 2020.]({{< resource_file 552bf65e-2932-6d4e-8c37-2813ebd84fde >}})
+### Enrollment
+
+52 students
 
 ### Breakdown by Year
 
@@ -78,17 +77,14 @@ Mostly sophomores and juniors, with an increasing number of first-year students 
 
 Mostly Computer Science majors; others were majoring in Mathematics, Mechanical Engineering, Material Science, Astronautics, or Nuclear Science
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
 Met 4 times per week for 1 hour per session; 49 sessions total; mandatory attendance
 
-Out of Class
-------------
+### Out of Class
 
 Outside class time, students completed homework assignments and prepared for tests and quizzes.
