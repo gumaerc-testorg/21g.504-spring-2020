@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page provides the supplemental resources for the MIT course 21G.504
+  Japanese IV, Fall 2020 taught by Takako Aikawa, Masami Ikeka-Lamm, Wakana Maekawa,
+  and Emiko Rafique.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 213bd9b6-4354-9ce5-d573-7040572144fd
 ---

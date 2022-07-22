@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page provides the class schedule and summary of in-class activities
+  for the MIT course 21G.504 Japanese IV, Fall 2020 taught by Takako Aikawa, Masami
+  Ikeka-Lamm, Wakana Maekawa, and Emiko Rafique.
+learning_resource_types: []
+ocw_type: CourseSection
 title: In-class Activities, Assignments, and Quizzes
 uid: a7cec55c-b0af-81b5-02fb-fe69d05ab806
 ---
