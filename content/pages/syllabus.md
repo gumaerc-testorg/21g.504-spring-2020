@@ -163,7 +163,7 @@ There are four lesson quizzes (25 minutes long), two interview tests, and a one-
 
 (i) To receive full credit for the homework, each assignment must be submitted on time (at the beginning of a class). Late submission (more than 2 days) will automatically result in zero credit.
 
-(ii) Any assignments you submit must be your own work. You are expected to complete all assignments independently, without using online translation applications such as Google Translate or receiving help from native speakers and/or friends. (Please visit the [MIT Academic Integrity website](http://integrity.mit.edu/) and read through the information carefully to avoid unintentional plagiarism.)
+(ii) Any assignments you submit must be your own work. You are expected to complete all assignments independently, without using online translation applications such as Google Translate or receiving help from native speakers and/or friends. (Please visit the {{% resource_link "e4bcf771-6341-490a-9a4e-d183470012ca" "MIT Academic Integrity website" %}} and read through the information carefully to avoid unintentional plagiarism.)
 
 *   作文と発表 Essays & Presentation
 

@@ -125,9 +125,9 @@ Lesson 19 文ぽう, たん語クイズ1
 
 1.  Study for lesson 19 vocabulary quiz 2 (\[G\] pp. 166–167 "Nouns, Adverbs and Other Expressions") and review \[G\] lesson 14 vocabulary.
 2.  Do homework 1, \[GW\] pp. 59 and 60-I (try to use all the kanji you have learned in your answers).
-3.  Do the assigned [drills](http://web.mit.edu/21f.504/www/review.html). Use Chrome (Firefox, Safari and others won't work).
+3.  Do the assigned {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "drills" %}}. Use Chrome (Firefox, Safari and others won't work).
 4.  Read \[G\] "Honorific Forms of Nouns and Adjectives" on p. 173.
-5.  Practice [lesson 19 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+5.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 19 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -138,7 +138,7 @@ Lesson 19 ドリル (1), たん語クイズ2, 宿題1
 
 *   Turn in homework 1
 *   Lesson 19 vocabulary quiz 2
-*   [Honorific verbs](http://web.mit.edu/21f.504/www/review.html)
+*   {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "Honorific verbs" %}}
 *   Honorific forms of nouns and adjectives
 
 
@@ -160,7 +160,7 @@ _Week 2_
 
 1.  Do homework 2, \[GW\] pp. 61–62.
 2.  Practice drills II and III (p176–177) using Audio as a preparation.
-3.  Practice [lesson 19 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+3.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 19 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -171,7 +171,7 @@ Lesson 19 ドリル (2), 宿題2
 
 *   Turn in homework 2
 *   Giving Respectful Advice
-*   [〜てくれてありがとう](http://web.mit.edu/21f.504/www/review.html)
+*   {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "〜てくれてありがとう" %}}
 
 
 {{< tdclose >}}
@@ -185,10 +185,10 @@ Lesson 19 ドリル (2), 宿題2
 
 
 1.  Do homework 3, \[GW\] pp. 63–64: For p. 63-II, try to elaborate your sentences by using various patterns and vocabulary you have learned in addition to the new ones. You do not have to do that for the other parts (the translations and other questions).
-2.  Study for the quiz on [honorific verbs](http://web.mit.edu/21f.504/www/review.html).
-3.  Do the [online drills](http://web.mit.edu/21f.504/www/review.html).
+2.  Study for the quiz on {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "honorific verbs" %}}.
+3.  Do the {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online drills" %}}.
 4.  Practice \[G\] IV and V (p. 178–179).
-5.  Practice [lesson 19 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+5.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 19 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -239,7 +239,7 @@ Lesson 19 ドリル (4), 漢字クイズ1
 
 
 1.  Read the dialogues in \[G\] pp. 164–165 at least 5 times. Be ready to answer questions about the dialogues in class.
-2.  Start studying for lesson 19 quiz with [online review materials](http://web.mit.edu/21f.504/www/review.html).
+2.  Start studying for lesson 19 quiz with {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online review materials" %}}.
 
 
 {{< tdclose >}}
@@ -268,7 +268,7 @@ _Week 3_
 {{< tdopen >}}
 
 
-1.  Study for lesson 19 quiz with [online review materials](http://web.mit.edu/21f.504/www/review.html).
+1.  Study for lesson 19 quiz with {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online review materials" %}}.
 
 
 {{< tdclose >}}
@@ -316,7 +316,7 @@ No assignment
 1.  Do writing assignment 1.
 2.  Read \[G\] lesson 20 Grammar, pp. 188–194.
 3.  Prepare for lesson 20 vocabulary quiz, \[G\] pp. 186–187 adjectives and verbs and lesson 15 vocabulary.
-4.  Practice [lesson 20 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+4.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 20 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -346,9 +346,9 @@ _Week 4_
 
 
 1.  Do homework 4, \[GW\] pp. 68–69 and 70-I.
-2.  Practice the assigned patterns with the [online drills](http://web.mit.edu/21f.504/www/review.html).
+2.  Practice the assigned patterns with the {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online drills" %}}.
 3.  Prepare for lesson 20 vocabulary quiz 2, \[G\] pp. 186–187 Nouns and Adverbs and Other Expressions) + lesson 16 vocabulary.
-4.  Practice [lesson 20 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+4.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 20 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -358,7 +358,7 @@ _Week 4_
 Lesson 20 ドリル (1), たん語クイズ2, 宿題4
 
 *   Vocabulary quiz 2
-*   [Humble and extra-modest expressions](http://dokkai.scripts.mit.edu/link_page.cgi?drill=218272115410)
+*   {{% resource_link "7adff6cc-0c88-401f-a224-cd45dad2d7e9" "Humble and extra-modest expressions" %}}
 *   Turn in homework 4
 
 
@@ -373,8 +373,8 @@ Lesson 20 ドリル (1), たん語クイズ2, 宿題4
 
 
 1.  Do homework 5, \[GW\] pp. 71–72.
-2.  Do the [online drills](http://web.mit.edu/21f.504/www/review.html).
-3.  Practice [lesson 20 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+2.  Do the {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online drills" %}}.
+3.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 20 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -401,7 +401,7 @@ Lesson 20 ドリル (2), 宿題5
 1.  Do Homework 6, \[GW\] pp. 73–74.
 2.  Study for the quiz on humble Expressions, including the irregular (extra-modest)ones and additional ぞんじています& ぞんじません.
 3.  Practice assigned patterns.
-4.  Practice [lesson 20 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+4.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 20 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -427,7 +427,7 @@ Lesson 20 ドリル (3), クイズ: Humble Expressions, 宿題6
 
 
 1.  Read dialogues in \[G\] pp. 184–185.
-2.  Review with the [online drills](http://web.mit.edu/21f.504/www/review.html).
+2.  Review with the {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online drills" %}}.
 3.  Prepare for kanji quiz: lessons 20, 15, and 16 (Reading only. You do not need to write kanji).
 
 
@@ -459,7 +459,7 @@ _Week 5_
 
 
 1.  Read \[G\] pp. 325–328 and answer the questions as a preparation.
-2.  Start preparing for the lesson quiz with the [online review materials](http://web.mit.edu/21f.504/www/review.html).
+2.  Start preparing for the lesson quiz with the {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online review materials" %}}.
 3.  Revise your letter.
 
 
@@ -470,7 +470,7 @@ _Week 5_
 Lesson 20 ドリル (5), Writing Assignment 1 (2nd draft) due
 
 *   読み物 (教か書).
-*   Review the learned lessons with the [online review materials](http://web.mit.edu/21f.504/www/review.html).
+*   Review the learned lessons with the {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online review materials" %}}.
 *   Submit your revised letter.
 
 
@@ -484,8 +484,8 @@ Lesson 20 ドリル (5), Writing Assignment 1 (2nd draft) due
 {{< tdopen >}}
 
 
-1.  Prepare for lesson 20 lesson quiz. Study "Listening Comprehension," "Situational Usage", and "Grammar" with the [online drills](http://web.mit.edu/21f.504/www/review.html).
-2.  Practice [lesson 20 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+1.  Prepare for lesson 20 lesson quiz. Study "Listening Comprehension," "Situational Usage", and "Grammar" with the {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online drills" %}}.
+2.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 20 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -533,7 +533,7 @@ No assignment
 
 1.  Read \[G\] lesson 21 Grammar, pp. 212–218.
 2.  Prepare for lesson 21 vocabulary quiz 1.
-3.  Practice [lesson 21 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+3.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 21 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -563,7 +563,7 @@ _Week 6_
 
 1.  Do homework 7, \[GW\] p. 77, p. 78-II.
 2.  Prepare for lesson 21 vocabulary quiz 2: \[G\] pp. 210–211 "Nouns, Adjectives, Adverbs and Other Expressions" + lesson 18 vocabulary.
-3.  Practice [lesson 21 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+3.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 21 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -588,8 +588,8 @@ Lesson 21 ドリル (1), たん語クイズ 2, 宿題7
 
 
 1.  Do homework 8, \[GW\] pp. 79m 80-II, and 83.
-2.  Do the assigned [online drills](http://web.mit.edu/21f.504/www/review.html).
-3.  Study [lesson 20 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+2.  Do the assigned {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online drills" %}}.
+3.  Study {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 20 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -616,7 +616,7 @@ Lesson 21 ドリル (2), 宿題8
 
 1.  Practice grammar in lesson 21.
 2.  Do homework 9, \[GW\] pp. 81–82: For p. 82-II, try to elaborate your sentences by using various patterns and vocabulary you have learned in addition to the new ones.
-3.  Practice [lesson 21 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+3.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 21 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -674,7 +674,7 @@ Lesson 21 Review
 
 1.  Review \[G\] lesson 21 Dialogues 1, 2, and 3, pp. 208–209 very carefully.
 2.  Review lesson 21.
-3.  Review [lesson 21 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) and prepare for the kanji quiz.
+3.  Review {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 21 kanji" %}} and prepare for the kanji quiz.
 
 
 {{< tdclose >}}
@@ -701,11 +701,11 @@ Lesson 21ドリル (4), 漢字クイズ
 1.  Read \[GW\]「厄年」, pp. 332–334 and answer the questions #1–9 on p. 335.
 2.  Start preparing for lesson 21 lesson quiz:
 
-*   [Listening comprehension](http://web.mit.edu/21f.504/www/review.html)
-*   [Situational usage](http://web.mit.edu/21f.504/www/review.html)
+*   {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "Listening comprehension" %}}
+*   {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "Situational usage" %}}
 *   Grammar
 *   \[GW\] workbook
-*   [Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習
+*   {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "Kanji" %}} 漢字のれん習
 
 
 {{< tdclose >}}
@@ -715,7 +715,7 @@ Lesson 21ドリル (4), 漢字クイズ
 Lesson 21 ドリル (5)
 
 *   \[GW\]「厄年」, pp. 332–334
-*   Review lesson 21 with the [online drills](http://web.mit.edu/21f.504/www/review.html).
+*   Review lesson 21 with the {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online drills" %}}.
 
 
 {{< tdclose >}}
@@ -730,11 +730,11 @@ Lesson 21 ドリル (5)
 
 Prepare for lesson 21 lesson quiz:
 
-1.  [Listening comprehension](http://web.mit.edu/21f.504/www/review.html)
-2.  [Situational usage](http://web.mit.edu/21f.504/www/review.html)
+1.  {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "Listening comprehension" %}}
+2.  {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "Situational usage" %}}
 3.  Grammar
 4.  \[GW\] workbook
-5.  [Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習
+5.  {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "Kanji" %}} 漢字のれん習
 
 
 {{< tdclose >}}
@@ -756,11 +756,11 @@ Lesson 21 lesson quiz: grammar and vocabulary
 
 Prepare for the Lesson 21 lesson quiz:
 
-1.  [Listening comprehension](http://web.mit.edu/21f.504/www/review.html)
-2.  [Situational usage](http://web.mit.edu/21f.504/www/review.html)
+1.  {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "Listening comprehension" %}}
+2.  {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "Situational usage" %}}
 3.  Grammar
 4.  \[GW\] workbook
-5.  Practice [Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習
+5.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "Kanji" %}} 漢字のれん習
 
 
 {{< tdclose >}}
@@ -788,7 +788,7 @@ _Week 8_
 
 1.  Read \[G\] lesson 22 Grammar, pp. 234–239.
 2.  Prepare for lesson 22 vocabulary quiz 1, \[G\] p. 233 "Verbs, Adverbs, and Other Expression."
-3.  Practice [kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習.
+3.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "kanji" %}} 漢字のれん習.
 
 
 {{< tdclose >}}
@@ -818,7 +818,7 @@ Lesson 22 文ぽう, たん語クイズ 1
 
 1.  Do homework 10, \[GW\] pp. 86 and 89. For p. 89-II, try to elaborate your sentences by using various patterns and vocabulary you have learned in addition to the new ones.
 2.  Practice assigned drills above using Audio as a preparation.
-3.  Practice [kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習.
+3.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "kanji" %}} 漢字のれん習.
 
 
 {{< tdclose >}}
@@ -853,7 +853,7 @@ Lesson 22 ドリル (1), たん語クイズ 2, 宿題10
 
 1.  Do homework 11, \[GW\] pp. 87–88
 2.  Practice the assigned online drills.
-3.  Practice [lesson 22 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+3.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 22 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -879,7 +879,7 @@ Lesson 22 ドリル (2), 宿題11
 
 
 1.  Do homework 12, \[GW\] pp. 90-I & 90-III, 91, and 92-III (write long sentences for 90-III).
-2.  Practice [lesson 22 kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice).
+2.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "lesson 22 kanji" %}}.
 
 
 {{< tdclose >}}
@@ -959,11 +959,11 @@ Lesson 22 ドリル (5)
 
 Prepare for the lesson quiz.
 
-*   [Listening comprehension](http://web.mit.edu/21f.504/www/review.html)
-*   [Situational usage](http://web.mit.edu/21f.504/www/review.html)
+*   {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "Listening comprehension" %}}
+*   {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "Situational usage" %}}
 *   Grammar slides
 *   \[GW\] Workbook
-*   Practice [Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習
+*   Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "Kanji" %}} 漢字のれん習
 
 
 {{< tdclose >}}
@@ -1030,7 +1030,7 @@ No assignment
 
 1.  Study lesson 23 Grammar, \[GW\] pp. 256–261.
 2.  Prepare for lesson 23 vocabulary quiz 1, \[GW\] "Verbs and Adjectives," pp. 254–255.
-3.  Practice [Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習.
+3.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "Kanji" %}} 漢字のれん習.
 
 
 {{< tdclose >}}
@@ -1059,9 +1059,9 @@ Lesson 23 文ぽう, たん語クイズ1
 
 
 1.  Do homework 13, \[GW\] pp. 95–96.
-2.  Practice assigned [online drills](http://web.mit.edu/21f.504/www/review.html).
+2.  Practice assigned {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online drills" %}}.
 3.  Prepare for lesson 23 vocabulary quiz 2.
-4.  Practice [Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習.
+4.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "Kanji" %}} 漢字のれん習.
 
 
 {{< tdclose >}}
@@ -1099,8 +1099,8 @@ _Week 11_
 
 
 1.  Do homework 14, \[GW\] pp. 97–98.
-2.  Practice assigned [online drills](http://web.mit.edu/21f.504/www/review.html).
-3.  Practice [Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習.
+2.  Practice assigned {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online drills" %}}.
+3.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "Kanji" %}} 漢字のれん習.
 
 
 {{< tdclose >}}
@@ -1125,8 +1125,8 @@ Lesson 23 ドリル (2), 宿題14
 
 
 1.  Do homework 15, \[GW\] pp. 99-I, 100-I, and 103-II (write long sentences).
-2.  Practice assigned [online drills](http://web.mit.edu/21f.504/www/review.html).
-3.  Practice [Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習.
+2.  Practice assigned {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online drills" %}}.
+3.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "Kanji" %}} 漢字のれん習.
 
 
 {{< tdclose >}}
@@ -1152,8 +1152,8 @@ Lesson 23 ドリル (3), 宿題15
 
 
 1.  Do homework 16, \[GW\] pp. 101 and 102 (write long sentences for pp. 101-II and 102-II).
-2.  Practice assigned [online drills](http://web.mit.edu/21f.504/www/review.html).
-3.  Practice [Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習.
+2.  Practice assigned {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "online drills" %}}.
+3.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "Kanji" %}} 漢字のれん習.
 
 
 {{< tdclose >}}
@@ -1180,7 +1180,7 @@ Lesson 23 ドリル (4), 宿題16
 
 
 1.  Read \[G\] lesson 23 "Dialogues," pp. 252–253 very carefully.
-2.  Practice [Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習.
+2.  Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "Kanji" %}} 漢字のれん習.
 
 
 {{< tdclose >}}
@@ -1248,11 +1248,11 @@ Review for the one-hour final exam
 
 Prepare for the one-hour final exam:
 
-*   [Listening comprehension](http://web.mit.edu/21f.504/www/review.html)
-*   [Situational usage](http://web.mit.edu/21f.504/www/review.html)
+*   {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "Listening comprehension" %}}
+*   {{% resource_link "0cbc621e-f5b3-4ed5-b346-8cb99aa72d69" "Situational usage" %}}
 *   Grammar slides
 *   \[GW\] workbook
-*   Practice [Kanji](http://genki.japantimes.co.jp/self/kanji-reading-practice) 漢字のれん習.
+*   Practice {{% resource_link "05804279-6740-40a0-aca7-3833a0ac5480" "Kanji" %}} 漢字のれん習.
 
 
 {{< tdclose >}}
