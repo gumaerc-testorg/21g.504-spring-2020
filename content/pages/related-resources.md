@@ -12,16 +12,16 @@ uid: 213bd9b6-4354-9ce5-d573-7040572144fd
 Supplemental Resources
 ----------------------
 
-*   [Online Exercises Drills](http://web.mit.edu/21f.501/www/review.html)
-*   [Genki Self-Study Room](http://genki.japantimes.co.jp/self_en)
-*   [Genki Video](http://genki.japantimes.co.jp/self/genki-movie)
-*   [Japanese Language Proficiency Test](http://www.jlpt.jp/e/)
-*   [Japan Foundation: Learning Materials](https://www.jpf.go.jp/e/project/japanese/education/resource/index.html)
+*   {{% resource_link "a350ee0c-e4a4-4eb2-a04a-39b6cdb401cb" "Online Exercises Drills" %}}
+*   {{% resource_link "83eca6d2-edcc-4310-a8b2-767c1a2765bf" "Genki Self-Study Room" %}}
+*   {{% resource_link "baffa036-e83c-423e-8ccc-f5528f7a05f5" "Genki Video" %}}
+*   {{% resource_link "77732936-af4b-4398-b6cd-180f063bcb3a" "Japanese Language Proficiency Test" %}}
+*   {{% resource_link "6fd5eb1d-469d-4a0d-9ff6-2c83576f33f9" "Japan Foundation: Learning Materials" %}}
 
 Typing in Japanese
 ------------------
 
-*   [How to Type Japanese](https://www.coscom.co.jp/learnjapanese801/index.html)
-*   [How to Set Up Japanese in Windows](http://www.coscom.co.jp/learnjapanese801/install_ime.html)
-*   [How to Set Up Japanese in Mac OS X](https://redcocoon.org/cab/mysoft.html)
-*   [Setting Up Japanese for Your Computer](http://www.guidetojapanese.org/learn/resources/setup)
+*   {{% resource_link "f3cd90c1-32f8-4ea8-9e97-7c80f847fed1" "How to Type Japanese" %}}
+*   {{% resource_link "fa59fc95-7cdc-4402-986e-958d22ed71c2" "How to Set Up Japanese in Windows" %}}
+*   {{% resource_link "f3373538-6cb1-4859-ab0a-0da829cf8259" "How to Set Up Japanese in Mac OS X" %}}
+*   {{% resource_link "49c0e409-4a79-4d4d-96fc-61c5c2dc12eb" "Setting Up Japanese for Your Computer" %}}
