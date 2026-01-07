@@ -19,7 +19,7 @@ Below, Wakana Maekawa describes various aspects of how she teaches *21G.504 Japa
 
 **OCW:** The focus in 21G.504 is on using socially appropriate language in speaking and writing, with emphasis on the relationship between (and relative social status of) the people involved in a given interaction. Do students unaccustomed to using honorifics find it difficult to understand which forms to use in which circumstances? How do you teach this skill?
 
-**Wakana Maekawa:** Since many students in Japanese IV are interested in doing an internship in Japan through the {{% resource_link "7804ce60-5a1b-416d-8097-675f8a60efe2" "MISTI-Japan" %}} program after completing the course, it’s important for them to understand the socially appropriate language and be able to use it. For many students it seems difficult to understand which forms to use in which circumstances at first, but we teach one form at a time by explaining the concept with many example sentences and provide them with ample opportunities to deepen their understanding and fully acquire the skills through exercises and role plays.
+**Wakana Maekawa:** Since many students in Japanese IV are interested in doing an internship in Japan through the [MISTI-Japan](https://misti.mit.edu/mit-japan) program after completing the course, it’s important for them to understand the socially appropriate language and be able to use it. For many students it seems difficult to understand which forms to use in which circumstances at first, but we teach one form at a time by explaining the concept with many example sentences and provide them with ample opportunities to deepen their understanding and fully acquire the skills through exercises and role plays.
 
 {{< anchor "rubric" >}}{{< /anchor >}}**OCW:** You use a detailed {{% resource_link 325f907e-3fb1-6f23-ba1f-7551a4e101c1 "rubric" %}} in calculating the grades for the two interview tests. What are the advantages and disadvantages of this approach? Do you share this rubric with your students? If so, how is it useful to them?
 
@@ -56,8 +56,8 @@ The students' grades were based on the following assessment elements:
 - GIR
 - HASS
 - HASS-H
-- 21G.504 is required for a {{% resource_link "b6c3522e-91f2-4307-9589-2f9a2e8ce079" "Bachelor’s Degree in Global Languages with a concentration in Japanese Studies" %}}.
-- 21G.504 counts toward the two years of Japanese studies required for participation in the {{% resource_link "7804ce60-5a1b-416d-8097-675f8a60efe2" "MISTI-Japan internship program" %}}.
+- 21G.504 is required for a [Bachelor’s Degree in Global Languages with a concentration in Japanese Studies](http://catalog.mit.edu/schools/humanities-arts-social-sciences/global-studies-languages/#global-languages-literatures-bs-course-21g).
+- 21G.504 counts toward the two years of Japanese studies required for participation in the [MISTI-Japan internship program](https://misti.mit.edu/mit-japan).
 
 ### Offered
 
